@@ -1,0 +1,12 @@
+C:\Users\Sky\Desktop\ImageSystem\ImageSystem\bin\Release\ImageSystem.exe
+C:\Users\Sky\Desktop\ImageSystem\ImageSystem\bin\Release\ImageSystem.pdb
+C:\Users\Sky\Desktop\ImageSystem\ImageSystem\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Sky\Desktop\ImageSystem\ImageSystem\obj\Release\ImageSystem.LoginFrm.resources
+C:\Users\Sky\Desktop\ImageSystem\ImageSystem\obj\Release\ImageSystem.AdminFrm.resources
+C:\Users\Sky\Desktop\ImageSystem\ImageSystem\obj\Release\ImageSystem.Properties.Resources.resources
+C:\Users\Sky\Desktop\ImageSystem\ImageSystem\obj\Release\ImageSystem.RegistFrm.resources
+C:\Users\Sky\Desktop\ImageSystem\ImageSystem\obj\Release\ImageSystem.SettingFrm.resources
+C:\Users\Sky\Desktop\ImageSystem\ImageSystem\obj\Release\ImageSystem.ViewFrm.resources
+C:\Users\Sky\Desktop\ImageSystem\ImageSystem\obj\Release\ImageSystem.csproj.GenerateResource.Cache
+C:\Users\Sky\Desktop\ImageSystem\ImageSystem\obj\Release\ImageSystem.exe
+C:\Users\Sky\Desktop\ImageSystem\ImageSystem\obj\Release\ImageSystem.pdb

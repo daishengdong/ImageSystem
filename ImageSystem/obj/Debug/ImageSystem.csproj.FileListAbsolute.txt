@@ -1,0 +1,17 @@
+C:\Users\Sky\Documents\Visual Studio 2008\Projects\ImageSystem\ImageSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sky\Documents\Visual Studio 2008\Projects\ImageSystem\ImageSystem\obj\Debug\RemoteDiskClient.MainFrm.resources
+C:\Users\Sky\Documents\Visual Studio 2008\Projects\ImageSystem\ImageSystem\obj\Debug\ImageSystem.Properties.Resources.resources
+C:\Users\Sky\Documents\Visual Studio 2008\Projects\ImageSystem\ImageSystem\obj\Debug\ImageSystem.csproj.GenerateResource.Cache
+C:\Users\Sky\Documents\Visual Studio 2008\Projects\ImageSystem\ImageSystem\obj\Debug\ImageSystem.MainFrm.resources
+C:\Users\Sky\Desktop\ImageSystem\ImageSystem\bin\Debug\ImageSystem.exe
+C:\Users\Sky\Desktop\ImageSystem\ImageSystem\bin\Debug\ImageSystem.pdb
+C:\Users\Sky\Desktop\ImageSystem\ImageSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sky\Desktop\ImageSystem\ImageSystem\obj\Debug\ImageSystem.Properties.Resources.resources
+C:\Users\Sky\Desktop\ImageSystem\ImageSystem\obj\Debug\ImageSystem.csproj.GenerateResource.Cache
+C:\Users\Sky\Desktop\ImageSystem\ImageSystem\obj\Debug\ImageSystem.exe
+C:\Users\Sky\Desktop\ImageSystem\ImageSystem\obj\Debug\ImageSystem.pdb
+C:\Users\Sky\Desktop\ImageSystem\ImageSystem\obj\Debug\ImageSystem.AdminFrm.resources
+C:\Users\Sky\Desktop\ImageSystem\ImageSystem\obj\Debug\ImageSystem.LoginFrm.resources
+C:\Users\Sky\Desktop\ImageSystem\ImageSystem\obj\Debug\ImageSystem.ViewFrm.resources
+C:\Users\Sky\Desktop\ImageSystem\ImageSystem\obj\Debug\ImageSystem.SettingFrm.resources
+C:\Users\Sky\Desktop\ImageSystem\ImageSystem\obj\Debug\ImageSystem.RegistFrm.resources

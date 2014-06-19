@@ -1,0 +1,17 @@
+<accounts>
+  <user>
+    <name>root</name>
+    <password>root</password>
+    <authority>ADMINISTRATOR</authority>
+  </user>
+  <user>
+    <name>user</name>
+    <password>user</password>
+    <authority>OPERATOR</authority>
+  </user>
+  <user>
+    <name>sky</name>
+    <password>love</password>
+    <authority>ADMINISTRATOR</authority>
+  </user>
+</accounts>

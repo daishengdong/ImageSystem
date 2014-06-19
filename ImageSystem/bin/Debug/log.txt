@@ -1,0 +1,49 @@
+On  6/8/2013  9:46 PM
+用户【root】登录
+On  6/8/2013  9:46 PM
+用户【root查看了图片【xx】
+On  6/8/2013  9:46 PM
+用户【root】添加了图片：C:\Users\Sky\Desktop\IMG_1888.tif
+
+On  6/8/2013  9:46 PM
+用户【root】对图片【C:\Users\Sky\Desktop\IMG_1888.tif】的设置进行了更改
+On  6/8/2013  9:47 PM
+用户【root】对图片【C:\Users\Sky\Desktop\IMG_1888.tif】的设置进行了更改
+On  6/8/2013  9:47 PM
+用户【root】对图片【C:\Users\Sky\Desktop\IMG_1888.tif】的设置进行了更改
+On  6/8/2013  9:49 PM
+试图用账户【root】登录失败
+On  6/8/2013  9:49 PM
+用户【root】登录
+On  6/8/2013  9:50 PM
+用户【root】登录
+On  6/8/2013  9:50 PM
+用户【root】对图片【C:\Users\Sky\Desktop\6级监考.jpg】的设置进行了更改
+On  6/8/2013  9:50 PM
+用户【user】登录
+On  6/8/2013  9:50 PM
+用户【user】查看了图片【xx】
+On  6/8/2013  9:51 PM
+用户【user】查看了图片【xx】
+On  6/8/2013  9:51 PM
+用户【root】登录
+On  6/8/2013  9:51 PM
+用户【root】对图片【C:\Users\Sky\Desktop\6级监考.jpg】的设置进行了更改
+On  6/8/2013  9:53 PM
+用户【sky】注册
+On  6/8/2013  9:53 PM
+用户【sky】登录
+On  6/8/2013  9:53 PM
+用户【sky】对图片【C:\Users\Sky\Desktop\6级监考.jpg】的设置进行了更改
+On  6/8/2013  9:55 PM
+用户【root】登录
+On  6/8/2013  9:55 PM
+用户【root】对图片【C:\Users\Sky\Desktop\6级监考.jpg】的设置进行了更改
+On  6/8/2013  9:55 PM
+用户【root】登录
+On  6/8/2013  9:55 PM
+用户【root】对图片【C:\Users\Sky\Desktop\6级监考.jpg】的设置进行了更改
+On  6/8/2013  9:56 PM
+用户【root】登录
+On  6/8/2013  9:56 PM
+用户【root】对图片【C:\Users\Sky\Desktop\6级监考.jpg】的设置进行了更改
